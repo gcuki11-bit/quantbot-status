@@ -1,12 +1,29 @@
 {
-  "updated": "2026-06-26T19:37:53.528505Z",
+  "updated": "2026-06-26T19:39:54.335427Z",
   "mode": "live",
-  "cycle": 216,
-  "balance": 58.25,
+  "cycle": 218,
+  "balance": 52.39,
   "day_start_equity": 76.49,
   "daily_pnl": 0.0,
-  "trades_today": 0,
-  "open_positions": [],
-  "strategies": {},
+  "trades_today": 1,
+  "open_positions": [
+    {
+      "symbol": "SOLUSDT",
+      "strategy": "mtf",
+      "side": "short",
+      "qty": 0.39,
+      "entry": 73.55,
+      "sl": 74.019643,
+      "tp": 68.29514
+    }
+  ],
+  "strategies": {
+    "mtf": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
+    }
+  },
   "recent_trades": []
 }
