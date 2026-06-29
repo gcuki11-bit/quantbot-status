@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-29T12:18:58.668748Z",
+  "updated": "2026-06-29T12:52:57.015334Z",
   "mode": "live",
-  "cycle": 1622,
-  "balance": 60.03,
+  "cycle": 1656,
+  "balance": 61.27,
   "day_start_equity": 63.15,
-  "daily_pnl": -2.01,
-  "trades_today": 5,
+  "daily_pnl": -1.54,
+  "trades_today": 6,
   "open_positions": [
     {
       "symbol": "XRPUSDT",
@@ -19,10 +19,10 @@
   ],
   "strategies": {
     "mtf": {
-      "trades": 4,
-      "wins": 2,
+      "trades": 5,
+      "wins": 3,
       "losses": 2,
-      "pnl": -0.14672224186168875
+      "pnl": 0.3217503781383055
     },
     "wave": {
       "trades": 1,
@@ -38,6 +38,14 @@
     }
   },
   "recent_trades": [
+    {
+      "time": "09:51",
+      "strategy": "mtf",
+      "symbol": "ZECUSDT",
+      "side": "short",
+      "reason": "TP",
+      "pnl": 0.47
+    },
     {
       "time": "09:14",
       "strategy": "mtf",
