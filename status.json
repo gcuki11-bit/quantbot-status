@@ -1,43 +1,24 @@
 {
-  "updated": "2026-06-29T15:03:46.727857Z",
+  "updated": "2026-06-29T17:08:39.484702Z",
   "mode": "live",
-  "cycle": 1784,
-  "balance": 61.29,
+  "cycle": 1846,
+  "balance": 65.29,
   "day_start_equity": 63.15,
-  "daily_pnl": -1.72,
+  "daily_pnl": -3.38,
   "trades_today": 9,
-  "open_positions": [
-    {
-      "symbol": "XRPUSDT",
-      "strategy": "mtf",
-      "side": "long",
-      "qty": 30.0,
-      "entry": 1.042,
-      "sl": 1.039096,
-      "tp": 1.054255
-    },
-    {
-      "symbol": "BTCUSDC",
-      "strategy": "wave",
-      "side": "short",
-      "qty": 0.002,
-      "entry": 59161.5,
-      "sl": 59976.589286,
-      "tp": 57123.776786
-    }
-  ],
+  "open_positions": [],
   "strategies": {
     "mtf": {
       "trades": 6,
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
-      "pnl": 0.6467606759954582
+      "pnl": 0.9829720208230457
     },
     "wave": {
       "trades": 2,
       "wins": 0,
-      "losses": 1,
-      "pnl": -1.8637499000000086
+      "losses": 2,
+      "pnl": -3.8668148000000118
     },
     "wave_ltf": {
       "trades": 1,
@@ -47,6 +28,22 @@
     }
   },
   "recent_trades": [
+    {
+      "time": "14:07",
+      "strategy": "wave",
+      "symbol": "BTCUSDC",
+      "side": "short",
+      "reason": "SL",
+      "pnl": -2.0
+    },
+    {
+      "time": "14:07",
+      "strategy": "mtf",
+      "symbol": "XRPUSDT",
+      "side": "long",
+      "reason": "TP",
+      "pnl": 0.34
+    },
     {
       "time": "11:34",
       "strategy": "wave_ltf",
