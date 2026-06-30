@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T02:59:27.979620Z",
+  "updated": "2026-06-30T03:01:28.232526Z",
   "mode": "live",
-  "cycle": 2172,
-  "balance": 40.89,
-  "day_start_equity": 63.15,
-  "daily_pnl": -3.38,
-  "trades_today": 10,
+  "cycle": 2174,
+  "balance": 40.88,
+  "day_start_equity": 40.92,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
   "open_positions": [
     {
       "symbol": "BTCUSDC",
@@ -19,104 +19,23 @@
   ],
   "strategies": {
     "mtf": {
-      "trades": 6,
-      "wins": 5,
-      "losses": 2,
-      "pnl": 0.9829720208230457
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave": {
-      "trades": 3,
+      "trades": 0,
       "wins": 0,
-      "losses": 2,
-      "pnl": -3.8668148000000118
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave_ltf": {
-      "trades": 1,
+      "trades": 0,
       "wins": 0,
-      "losses": 1,
-      "pnl": -0.49882630000000144
+      "losses": 0,
+      "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "14:07",
-      "strategy": "wave",
-      "symbol": "BTCUSDC",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -2.0
-    },
-    {
-      "time": "14:07",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.34
-    },
-    {
-      "time": "11:34",
-      "strategy": "wave_ltf",
-      "symbol": "BTCUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.5
-    },
-    {
-      "time": "10:39",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "short",
-      "reason": "TP",
-      "pnl": 0.33
-    },
-    {
-      "time": "09:51",
-      "strategy": "mtf",
-      "symbol": "ZECUSDT",
-      "side": "short",
-      "reason": "TP",
-      "pnl": 0.47
-    },
-    {
-      "time": "09:14",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.18
-    },
-    {
-      "time": "09:12",
-      "strategy": "mtf",
-      "symbol": "ETHUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.59
-    },
-    {
-      "time": "09:07",
-      "strategy": "wave",
-      "symbol": "BTCUSDC",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -1.86
-    },
-    {
-      "time": "01:22",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "short",
-      "reason": "TP",
-      "pnl": 0.21
-    },
-    {
-      "time": "00:09",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.41
-    }
-  ]
+  "recent_trades": []
 }
