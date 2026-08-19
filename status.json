@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-19T02:59:25.519482Z",
+  "updated": "2026-08-19T03:01:25.587213Z",
   "mode": "live",
-  "cycle": 1460,
-  "balance": 11.68,
-  "day_start_equity": 11.53,
-  "daily_pnl": -0.09,
-  "trades_today": 2,
+  "cycle": 1462,
+  "balance": 11.62,
+  "day_start_equity": 11.64,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
   "open_positions": [],
   "strategies": {
     "mtf": {
-      "trades": 2,
+      "trades": 0,
       "wins": 0,
-      "losses": 2,
-      "pnl": -0.08539786785714222
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave": {
       "trades": 0,
@@ -27,22 +27,5 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "23:29",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.06
-    },
-    {
-      "time": "11:25",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.02
-    }
-  ]
+  "recent_trades": []
 }
