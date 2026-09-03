@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-03T19:18:03.308897Z",
+  "updated": "2026-09-03T19:20:07.409825Z",
   "mode": "live",
-  "cycle": 486,
-  "balance": 48.0,
+  "cycle": 488,
+  "balance": 47.89,
   "day_start_equity": 60.43,
   "daily_pnl": -1.27,
-  "trades_today": 8,
+  "trades_today": 9,
   "open_positions": [
     {
       "symbol": "HYPEUSDT",
@@ -24,6 +24,15 @@
       "entry": 2516.55,
       "sl": 2528.174643,
       "tp": 2417.195481
+    },
+    {
+      "symbol": "BTCUSDC",
+      "strategy": "wave",
+      "side": "long",
+      "qty": 0.001,
+      "entry": 81332.4,
+      "sl": 80411.207143,
+      "tp": 83635.382143
     }
   ],
   "strategies": {
@@ -34,7 +43,7 @@
       "pnl": -1.2717523050000015
     },
     "wave": {
-      "trades": 0,
+      "trades": 1,
       "wins": 0,
       "losses": 0,
       "pnl": 0.0
