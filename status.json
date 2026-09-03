@@ -1,28 +1,18 @@
 {
-  "updated": "2026-09-03T11:23:09.418406Z",
+  "updated": "2026-09-03T11:25:58.834643Z",
   "mode": "live",
-  "cycle": 12,
-  "balance": 54.36,
+  "cycle": 14,
+  "balance": 60.33,
   "day_start_equity": 60.43,
-  "daily_pnl": 0.0,
+  "daily_pnl": -0.12,
   "trades_today": 1,
-  "open_positions": [
-    {
-      "symbol": "ZECUSDT",
-      "strategy": "mtf",
-      "side": "short",
-      "qty": 0.036,
-      "entry": 837.48,
-      "sl": 839.79,
-      "tp": 826.016505
-    }
-  ],
+  "open_positions": [],
   "strategies": {
     "mtf": {
       "trades": 1,
       "wins": 0,
-      "losses": 0,
-      "pnl": 0.0
+      "losses": 1,
+      "pnl": -0.121274819999999
     },
     "wave": {
       "trades": 0,
@@ -37,5 +27,14 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": []
+  "recent_trades": [
+    {
+      "time": "08:25",
+      "strategy": "mtf",
+      "symbol": "ZECUSDT",
+      "side": "short",
+      "reason": "SL",
+      "pnl": -0.12
+    }
+  ]
 }
