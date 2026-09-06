@@ -1,15 +1,25 @@
 {
-  "updated": "2026-09-06T14:16:55.045722Z",
+  "updated": "2026-09-06T14:18:56.913659Z",
   "mode": "live",
-  "cycle": 1202,
-  "balance": 36.4,
+  "cycle": 1204,
+  "balance": 36.46,
   "day_start_equity": 32.96,
   "daily_pnl": -0.31,
-  "trades_today": 2,
-  "open_positions": [],
+  "trades_today": 3,
+  "open_positions": [
+    {
+      "symbol": "BNBUSDT",
+      "strategy": "mtf",
+      "side": "long",
+      "qty": 0.02,
+      "entry": 748.73,
+      "sl": 746.726071,
+      "tp": 757.956207
+    }
+  ],
   "strategies": {
     "mtf": {
-      "trades": 2,
+      "trades": 3,
       "wins": 0,
       "losses": 3,
       "pnl": -0.3129807999999972
