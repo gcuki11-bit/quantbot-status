@@ -1,15 +1,25 @@
 {
-  "updated": "2026-09-07T12:29:45.336604Z",
+  "updated": "2026-09-07T12:31:46.379025Z",
   "mode": "live",
-  "cycle": 2058,
-  "balance": 57.89,
+  "cycle": 2060,
+  "balance": 52.08,
   "day_start_equity": 3.38,
   "daily_pnl": 0.0,
-  "trades_today": 0,
-  "open_positions": [],
+  "trades_today": 1,
+  "open_positions": [
+    {
+      "symbol": "DOGEUSDT",
+      "strategy": "mtf",
+      "side": "short",
+      "qty": 320.0,
+      "entry": 0.09038,
+      "sl": 0.090653,
+      "tp": 0.089834
+    }
+  ],
   "strategies": {
     "mtf": {
-      "trades": 0,
+      "trades": 1,
       "wins": 0,
       "losses": 0,
       "pnl": 0.0
