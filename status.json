@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-09T02:59:31.081178Z",
+  "updated": "2026-09-09T03:01:32.782868Z",
   "mode": "live",
-  "cycle": 2,
+  "cycle": 4,
   "balance": 58.73,
-  "day_start_equity": 57.63,
-  "daily_pnl": 0.69,
-  "trades_today": 10,
+  "day_start_equity": 58.73,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
   "open_positions": [],
   "strategies": {
     "mtf": {
-      "trades": 10,
-      "wins": 2,
-      "losses": 7,
-      "pnl": 0.6928894253713248
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave": {
       "trades": 0,
@@ -27,78 +27,5 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "13:40",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.62
-    },
-    {
-      "time": "12:48",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.19
-    },
-    {
-      "time": "12:04",
-      "strategy": "mtf",
-      "symbol": "ETHUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.89
-    },
-    {
-      "time": "11:43",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.11
-    },
-    {
-      "time": "09:01",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.18
-    },
-    {
-      "time": "08:11",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.08
-    },
-    {
-      "time": "08:04",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.06
-    },
-    {
-      "time": "00:28",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.1
-    },
-    {
-      "time": "00:20",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.1
-    }
-  ]
+  "recent_trades": []
 }
