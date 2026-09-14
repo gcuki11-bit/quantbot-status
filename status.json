@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-14T02:59:30.886116Z",
+  "updated": "2026-09-14T03:01:31.393132Z",
   "mode": "live",
-  "cycle": 986,
+  "cycle": 988,
   "balance": 54.85,
-  "day_start_equity": 58.76,
-  "daily_pnl": 1.12,
-  "trades_today": 10,
+  "day_start_equity": 54.87,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
   "open_positions": [
     {
       "symbol": "HYPEUSDT",
@@ -19,10 +19,10 @@
   ],
   "strategies": {
     "mtf": {
-      "trades": 10,
-      "wins": 3,
-      "losses": 6,
-      "pnl": 1.1181876838981657
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave": {
       "trades": 0,
@@ -37,78 +37,5 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "23:53",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.67
-    },
-    {
-      "time": "23:25",
-      "strategy": "mtf",
-      "symbol": "ETHUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.52
-    },
-    {
-      "time": "19:06",
-      "strategy": "mtf",
-      "symbol": "ETHUSDT",
-      "side": "short",
-      "reason": "TP",
-      "pnl": 0.38
-    },
-    {
-      "time": "18:01",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.06
-    },
-    {
-      "time": "05:11",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.07
-    },
-    {
-      "time": "04:56",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.09
-    },
-    {
-      "time": "04:49",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.09
-    },
-    {
-      "time": "03:55",
-      "strategy": "mtf",
-      "symbol": "SOLUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.08
-    },
-    {
-      "time": "03:53",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.06
-    }
-  ]
+  "recent_trades": []
 }
