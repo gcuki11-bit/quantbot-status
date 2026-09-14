@@ -1,28 +1,18 @@
 {
-  "updated": "2026-09-14T04:05:31.738099Z",
+  "updated": "2026-09-14T04:07:32.132845Z",
   "mode": "live",
-  "cycle": 1052,
-  "balance": 55.07,
+  "cycle": 1054,
+  "balance": 61.02,
   "day_start_equity": 54.87,
-  "daily_pnl": 0.0,
+  "daily_pnl": 1.15,
   "trades_today": 0,
-  "open_positions": [
-    {
-      "symbol": "HYPEUSDT",
-      "strategy": "mtf",
-      "side": "long",
-      "qty": 0.37,
-      "entry": 76.98,
-      "sl": 76.43825,
-      "tp": 80.162571
-    }
-  ],
+  "open_positions": [],
   "strategies": {
     "mtf": {
       "trades": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "pnl": 0.0
+      "pnl": 1.1484799615743222
     },
     "wave": {
       "trades": 0,
@@ -37,5 +27,14 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": []
+  "recent_trades": [
+    {
+      "time": "01:07",
+      "strategy": "mtf",
+      "symbol": "HYPEUSDT",
+      "side": "long",
+      "reason": "TP",
+      "pnl": 1.15
+    }
+  ]
 }
