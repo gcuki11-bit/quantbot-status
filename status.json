@@ -1,15 +1,25 @@
 {
-  "updated": "2026-09-17T22:20:23.641399Z",
+  "updated": "2026-09-17T22:22:25.468361Z",
   "mode": "live",
-  "cycle": 66,
-  "balance": 15.73,
+  "cycle": 68,
+  "balance": 15.85,
   "day_start_equity": 16.46,
   "daily_pnl": 0.0,
-  "trades_today": 0,
-  "open_positions": [],
+  "trades_today": 1,
+  "open_positions": [
+    {
+      "symbol": "XRPUSDT",
+      "strategy": "mtf",
+      "side": "long",
+      "qty": 6.1,
+      "entry": 1.2892,
+      "sl": 1.285568,
+      "tp": 1.299945
+    }
+  ],
   "strategies": {
     "mtf": {
-      "trades": 0,
+      "trades": 1,
       "wins": 0,
       "losses": 0,
       "pnl": 0.0
