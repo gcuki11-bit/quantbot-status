@@ -1,37 +1,18 @@
 {
-  "updated": "2026-09-14T13:50:14.840166Z",
+  "updated": "2026-09-17T19:22:03.659234Z",
   "mode": "live",
-  "cycle": 1184,
-  "balance": 49.6,
-  "day_start_equity": 54.87,
-  "daily_pnl": 1.15,
-  "trades_today": 2,
-  "open_positions": [
-    {
-      "symbol": "SOLUSDT",
-      "strategy": "mtf",
-      "side": "short",
-      "qty": 0.3,
-      "entry": 101.55,
-      "sl": 102.073929,
-      "tp": 99.500345
-    },
-    {
-      "symbol": "ETHUSDT",
-      "strategy": "mtf",
-      "side": "long",
-      "qty": 0.022,
-      "entry": 2492.49,
-      "sl": 2482.973214,
-      "tp": 2520.400862
-    }
-  ],
+  "cycle": 2,
+  "balance": 16.52,
+  "day_start_equity": 16.46,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
+  "open_positions": [],
   "strategies": {
     "mtf": {
-      "trades": 2,
-      "wins": 1,
+      "trades": 0,
+      "wins": 0,
       "losses": 0,
-      "pnl": 1.1484799615743222
+      "pnl": 0.0
     },
     "wave": {
       "trades": 0,
@@ -46,14 +27,5 @@
       "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "01:07",
-      "strategy": "mtf",
-      "symbol": "HYPEUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 1.15
-    }
-  ]
+  "recent_trades": []
 }
