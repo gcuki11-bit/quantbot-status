@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-19T00:39:16.651354Z",
+  "updated": "2026-09-19T00:53:18.232837Z",
   "mode": "live",
-  "cycle": 926,
-  "balance": 25.1,
+  "cycle": 940,
+  "balance": 25.31,
   "day_start_equity": 18.48,
-  "daily_pnl": -0.41,
-  "trades_today": 8,
+  "daily_pnl": -0.48,
+  "trades_today": 9,
   "open_positions": [
     {
-      "symbol": "HYPEUSDT",
+      "symbol": "XRPUSDT",
       "strategy": "mtf",
       "side": "short",
-      "qty": 0.13,
-      "entry": 92.98,
-      "sl": 93.318,
-      "tp": 85.608958
+      "qty": 8.8,
+      "entry": 1.4163,
+      "sl": 1.420332,
+      "tp": 1.334949
     }
   ],
   "strategies": {
     "mtf": {
-      "trades": 8,
+      "trades": 9,
       "wins": 0,
-      "losses": 7,
-      "pnl": -0.4120193999999979
+      "losses": 8,
+      "pnl": -0.47704325499999745
     },
     "wave": {
       "trades": 0,
@@ -38,6 +38,14 @@
     }
   },
   "recent_trades": [
+    {
+      "time": "21:53",
+      "strategy": "mtf",
+      "symbol": "HYPEUSDT",
+      "side": "short",
+      "reason": "SL",
+      "pnl": -0.07
+    },
     {
       "time": "21:38",
       "strategy": "mtf",
