@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29T20:01:38.231993Z",
+  "updated": "2026-09-30T12:05:46.351614Z",
   "mode": "live",
-  "cycle": 124,
-  "balance": 1.76,
-  "day_start_equity": 0.19,
+  "cycle": 2,
+  "balance": 0.0,
+  "day_start_equity": 0.0,
   "daily_pnl": 0.0,
   "trades_today": 0,
   "open_positions": [],
