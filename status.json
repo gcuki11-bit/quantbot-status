@@ -1,21 +1,12 @@
 {
-  "updated": "2026-10-07T13:46:44.170803Z",
+  "updated": "2026-10-07T13:48:45.639177Z",
   "mode": "live",
-  "cycle": 104,
-  "balance": 73.74,
+  "cycle": 106,
+  "balance": 82.22,
   "day_start_equity": 89.96,
-  "daily_pnl": 0.0,
+  "daily_pnl": 0.46,
   "trades_today": 2,
   "open_positions": [
-    {
-      "symbol": "BTCUSDT",
-      "strategy": "wave_ltf",
-      "side": "short",
-      "qty": 0.001,
-      "entry": 83344.4,
-      "sl": 83559.65,
-      "tp": 82806.275
-    },
     {
       "symbol": "XRPUSDT",
       "strategy": "mtf",
@@ -41,10 +32,19 @@
     },
     "wave_ltf": {
       "trades": 1,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "pnl": 0.0
+      "pnl": 0.4550496625
     }
   },
-  "recent_trades": []
+  "recent_trades": [
+    {
+      "time": "10:48",
+      "strategy": "wave_ltf",
+      "symbol": "BTCUSDT",
+      "side": "short",
+      "reason": "TP",
+      "pnl": 0.46
+    }
+  ]
 }
