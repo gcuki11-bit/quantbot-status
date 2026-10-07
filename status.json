@@ -1,22 +1,12 @@
 {
-  "updated": "2026-10-07T15:30:49.166806Z",
+  "updated": "2026-10-07T15:32:49.720692Z",
   "mode": "live",
-  "cycle": 208,
-  "balance": 81.64,
+  "cycle": 210,
+  "balance": 89.8,
   "day_start_equity": 89.96,
-  "daily_pnl": 0.22,
+  "daily_pnl": -0.15,
   "trades_today": 3,
-  "open_positions": [
-    {
-      "symbol": "BTCUSDT",
-      "strategy": "wave_ltf",
-      "side": "short",
-      "qty": 0.001,
-      "entry": 82870.1,
-      "sl": 83115.05,
-      "tp": 82257.725
-    }
-  ],
+  "open_positions": [],
   "strategies": {
     "mtf": {
       "trades": 1,
@@ -33,11 +23,19 @@
     "wave_ltf": {
       "trades": 2,
       "wins": 1,
-      "losses": 0,
-      "pnl": 0.4550496625
+      "losses": 1,
+      "pnl": 0.08713711250000583
     }
   },
   "recent_trades": [
+    {
+      "time": "12:31",
+      "strategy": "wave_ltf",
+      "symbol": "BTCUSDT",
+      "side": "short",
+      "reason": "SL",
+      "pnl": -0.37
+    },
     {
       "time": "12:01",
       "strategy": "mtf",
