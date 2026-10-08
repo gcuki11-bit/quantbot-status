@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-07T21:54:54.026118Z",
+  "updated": "2026-10-08T11:17:14.731152Z",
   "mode": "live",
-  "cycle": 592,
-  "balance": 90.38,
-  "day_start_equity": 89.96,
-  "daily_pnl": 0.45,
-  "trades_today": 5,
+  "cycle": 4,
+  "balance": 90.37,
+  "day_start_equity": 90.37,
+  "daily_pnl": 0.0,
+  "trades_today": 0,
   "open_positions": [],
   "strategies": {
     "mtf": {
-      "trades": 3,
-      "wins": 1,
-      "losses": 2,
-      "pnl": 0.36399930752864484
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
     },
     "wave": {
       "trades": 0,
@@ -21,52 +21,11 @@
       "pnl": 0.0
     },
     "wave_ltf": {
-      "trades": 2,
-      "wins": 1,
-      "losses": 1,
-      "pnl": 0.08713711250000583
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "pnl": 0.0
     }
   },
-  "recent_trades": [
-    {
-      "time": "18:44",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.24
-    },
-    {
-      "time": "16:11",
-      "strategy": "mtf",
-      "symbol": "ZECUSDT",
-      "side": "long",
-      "reason": "TP",
-      "pnl": 0.85
-    },
-    {
-      "time": "12:31",
-      "strategy": "wave_ltf",
-      "symbol": "BTCUSDT",
-      "side": "short",
-      "reason": "SL",
-      "pnl": -0.37
-    },
-    {
-      "time": "12:01",
-      "strategy": "mtf",
-      "symbol": "XRPUSDT",
-      "side": "long",
-      "reason": "SL",
-      "pnl": -0.24
-    },
-    {
-      "time": "10:48",
-      "strategy": "wave_ltf",
-      "symbol": "BTCUSDT",
-      "side": "short",
-      "reason": "TP",
-      "pnl": 0.46
-    }
-  ]
+  "recent_trades": []
 }
